@@ -1,0 +1,59 @@
+/*All HTML elements can be considered as boxes. In CSS, the term "box model" is used when talking about design and layout.
+
+The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. */
+#white{
+  background-color: white;
+}
+h2{
+font-family: 'Rye', cursive;
+  text-align: center;
+
+}
+/* #top{
+border: 4px solid blue;
+width: 25%;
+text-align: center; */
+/*  Top, Right, Bottom, Left (clockwise)  */
+/* margin: 10px 20px 100px 400px
+  margin: auto;
+}
+#bottom{border: 4px solid red;
+width: 50%;
+  padding: 200px;
+        text-align: center;
+} */
+
+table{
+  border: 0px;
+  margin: auto;
+}
+#one{
+  background: #B8336A;
+  border: 4px solid #B8336A;
+  padding: 150px 75px 150px 75px;
+  margin-right:20px;
+    }
+#two{
+  background: #726DA8;
+  border: 4px solid #726DA8;
+  padding: 150px 75px 150px 75px;
+    }
+#three{
+  background: #7D8CC4;
+  border: 4px solid #7D8CC4;
+  padding: 150px 75px 150px 75px;
+    }
+#four{
+  background: #A0D2DB;
+  border: 4px solid #A0D2DB;
+  padding: 150px 75px 150px 75px;
+    }
+#five{
+  background: #C490D1;
+  border: 4px solid #C490D1;
+  padding: 150px 75px 150px 75px;
+    }
+th{
+  border:0px;
+  padding: 9px;
+}
